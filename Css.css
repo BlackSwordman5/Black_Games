@@ -17,24 +17,42 @@
 }
 .Intro
 {
-	color: white;
-	font-size: 1.5em;
-	margin: 10px;
-	border: solid white 2px;
-	padding: 10px;
+	height: 160px;
+	width: 930px-+-+;
+	font-size: 1.4em;
 	text-align: center;
+	display: block;
+	margin: 20px;
+	padding: 20px;
+	color: white;
+	clear: both;
 	background-color: rgb(51, 51, 51);
+	border-radius: 10px;
 	font-family: OCR A Std, monospace;
 }
+.Outro
+{
+	height: 50px;
+	width: 930px-+-+;
+	font-size: 1.4em;
+	text-align: center;
+	display: block;
+	margin: 20px;
+	padding: 20px;
+	color: white;
+	clear: both;
+	background-color: rgb(51, 51, 51);
+	border-radius: 10px;
+	font-family: OCR A Std, monospace;
 h2
 {
 	color: white;
-    font-size: 2.5em;
+    	font-size: 2.5em;
 	font-family: OCR A Std, monospace;
-    clear: right;
-    border-top: 3px white solid;
-    text-decoration-line: underline;
-    margin-left: 10px;
+    	clear: right;
+    	border-top: 3px white solid;
+    	text-decoration-line: underline;
+    	margin-left: 10px;
 }
 h3
 {
@@ -74,8 +92,8 @@ h3
 {
 	clear: both;
 	display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start;
+    	flex-wrap: wrap;
+   	justify-content: flex-start;
 	border: white solid 2px;
 }
 .discord
