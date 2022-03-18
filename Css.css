@@ -1,35 +1,35 @@
 *
 {
-    background-color: black;
+    	background-color: black;
 }
 .Bannière
 {
-    width: auto;
-    height: 400px;
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
+    	width: auto;
+    	height: 400px;
+    	display: block;
+    	margin-right: auto;
+   	margin-left: auto;
 }
 .Logo
 {
-    width: 75px;
-    float: left;
+    	width: 75px;
+    	float: left;
 }
 .Intro
 {
-   	height: 160px;
-    width: 930px-+-+;
-    font-size: 1.5em;
+   	height: 140px;
+    	width: 930px-+-+;
+    	font-size: 1.5em;
 	text-align: center;
-    display: block;
+    	display: block;
 	border: 2px white solid;
-    margin: 20px;
+    	margin: 20px;
   	padding: 20px;
-    color: white;
+    	color: white;
 	clear: both;
 	background-color: rgb(51, 51, 51);
 	border-radius: 10px;
-    font-family: OCR A Std, monospace;
+    	font-family: OCR A Std, monospace;
 }
 .Outro
 {
@@ -50,12 +50,12 @@
 h2
 {
 	color: white;
-    font-size: 2.5em;
+    	font-size: 2.5em;
 	font-family: OCR A Std, monospace;
-    clear: right;
-    border-top: 3px white solid;
-    text-decoration-line: underline;
-    margin-left: 10px;
+    	clear: right;
+    	border-top: 3px white solid;
+    	text-decoration-line: underline;
+    	margin-left: 10px;
 }
 h3
 {
@@ -93,11 +93,11 @@ h3
 }
 .Projet
 {
-    clear: both;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    border: white solid 2px;
+    	clear: both;
+    	display: flex;
+    	flex-wrap: wrap;
+    	justify-content: flex-start;
+    	border: white solid 2px;
 }
 .discord
 {
