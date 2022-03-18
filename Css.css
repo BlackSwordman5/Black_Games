@@ -125,3 +125,7 @@ h3
 	padding: 10px;
 	background-color: rgb(51, 51, 51);
 }
+a
+{
+	background: none;	
+}
